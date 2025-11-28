@@ -26,7 +26,6 @@ Shows automated alerts, real-time monitoring, and data processing for predictive
 
 Workflow Link
 You can view and interact with the simulation workflow directly in n8n cloud:https://daizyd.app.n8n.cloud/workflow/Tp2vNpQqD5rrPBbi
-Open Workflow in n8n
 
 Usage Instructions
 Open the workflow link in n8n cloud.
